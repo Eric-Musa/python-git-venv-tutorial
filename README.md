@@ -12,3 +12,11 @@ Basic Python workflow with Github, venv, and VSCode.
 8. create your Python file <pythonfilename>.py
 9. run `python` in the terminal to start an interactive session using `.venv`
 10. run the Python command `with open('<pythonfilename>.py', 'r') as f: exec(f.read())` to execute your Python file interactively, i.e., with all variables and results in memory
+
+
+### Basic Git controls:
+1. `git status` to see status of local repository (with comparison to remote)
+2. `git add .` to add all untracked/changed files
+3. `git commit -m "<commitmessage>"` to commit changes locally
+4. `git push` to push to the remote repository (`origin` by default)
+* `git remote -v` to list remote repo URLs
