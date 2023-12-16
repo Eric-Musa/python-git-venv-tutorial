@@ -1,5 +1,5 @@
 # python-git-venv-tutorial
-Basic Python workflow with Github, venv, and VSCode.
+Demonstration of Python workflow with Github, venv, and VSCode using (what I understand to be) best practices.
 
 ### Basic setup steps:
 1. create remote repository (with Python `.gitignore` template)
